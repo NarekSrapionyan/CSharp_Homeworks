@@ -1,5 +1,3 @@
-My C# Homework Repository 📌
-
 Hi there! 👋
 
 This repository contains my C# homework assignments, filled with a variety of interesting exercises. These exercises are great for practicing C# and improving your programming skills.
