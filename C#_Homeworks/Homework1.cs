@@ -46,7 +46,7 @@ for (int i = 0; i < arr.Length; i++)
     arr[i] = random.Next(1, 101);
 }
 
-Console.WriteLine("Array: " + string.Join(" ", arr)); // string.join kpcnuma irar tpuma toxov.
+Console.WriteLine("Array: " + string.Join(" ", arr)); 
 
 int maxNumber = arr[0];
 foreach (int i in arr)
